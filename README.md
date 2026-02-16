@@ -70,46 +70,37 @@ Focused on writing clean, maintainable, and performance-oriented code aligned wi
 **Tech:** Spring Boot, PostgreSQL
 
 ---
-
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulalimswe&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalimswe&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulalimswe&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulalimswe&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy
+# 📇 Contact Card
 
-- Clean and maintainable code  
-- Structured architecture before implementation  
-- Performance-first mindset  
-- Continuous improvement (Kaizen mindset)  
-- Long-term professional growth  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulalim-swe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abdulalim--swe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abdulalim.swe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdulalim.swe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://alimswe.me" target="_blank">
+    <img src="https://img.shields.io/badge/Website-alimswe.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking Backend / Software Engineer opportunities in structured engineering environments where quality, stability, and continuous improvement are valued — including international and Japan-based companies.
+Seeking Backend / Software Engineer opportunities in structured engineering environments where quality, scalability, and long-term system stability are prioritized — including international and Japan-based teams.
 
 ---
 
-## 🌐 Portfolio
-
-🔗 https://alimswe.me  
-
----
-
-## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/abdulalim-swe/  
-Email: abdulalim.swe@gmail.com  
-
----
-
-Focused on building reliable systems with long-term impact.
+<p align="center">
+Focused on building reliable backend systems with long-term impact.
+</p>
