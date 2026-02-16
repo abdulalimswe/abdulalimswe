@@ -1,5 +1,5 @@
 <h1 align="center">Md Abdul Alim</h1>
-<h3 align="center">Backend Software Engineer | Java | Spring Boot | Distributed Systems</h3>
+<h3 align="center">Backend Software Engineer | Java | Spring Boot | AWS | DevOps</h3>
 
 <p align="center">
   <a href="https://alimswe.me" target="_blank">
