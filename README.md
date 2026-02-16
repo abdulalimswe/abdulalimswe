@@ -1,4 +1,4 @@
-<h1 align="center">Abdul Alim</h1>
+<h1 align="center">Md Abdul Alim</h1>
 <h3 align="center">Backend Software Engineer | Java | Spring Boot | Distributed Systems</h3>
 
 <p align="center">
