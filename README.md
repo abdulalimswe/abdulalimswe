@@ -85,7 +85,7 @@ Focused on writing clean, maintainable, and performance-oriented code aligned wi
   <a href="https://www.linkedin.com/in/abdulalim-swe/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-abdulalim--swe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:abdulalim.swe@gmail.com">
+  <a href="mailto:alimm.swe@gmail.com">
     <img src="https://img.shields.io/badge/Email-abdulalim.swe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://alimswe.me" target="_blank">
